@@ -1,5 +1,5 @@
 {
-  "AOI.JS Snippets Starter Template": {
+  "Discord.JS Snippets Starter Template": {
       "prefix": "!main",
       "body": [
           "//including the discord.js library",
@@ -20,6 +20,6 @@
           " }",
           "});"
       ],
-      "description": "Started Code for discord.js"
+      "description": "Starter Code for discord.js"
   }
 }
